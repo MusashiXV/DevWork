@@ -1,4 +1,4 @@
 # DevWork
-Teme LB Dev
+liveBooks front dev course with Ovi & Dorin
 
-Aici o sa avem temele de la departamentul de scule si unelte. 
+
